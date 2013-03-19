@@ -1,0 +1,5 @@
+manifest/cache/
+manifest/logs/
+manifest/tmp/
+workspace/uploads/
+install-log.txt
